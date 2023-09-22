@@ -1,1 +1,2 @@
-
+/api/bookings/
+/api/registration/
